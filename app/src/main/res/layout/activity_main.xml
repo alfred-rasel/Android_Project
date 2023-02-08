@@ -27,7 +27,7 @@
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:text="Log In"
-                android:textColor="@color/white"
+                android:textColor="#FF3700B3"
                 android:textAppearance="?android:textAppearanceLarge" />
 
             <EditText
